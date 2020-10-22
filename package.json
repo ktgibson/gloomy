@@ -1,0 +1,38 @@
+{
+    "name": "gloomy",
+    "displayName": "Gloomy",
+    "description": "A port of Atom's Gloom syntax theme for VS Code",
+    "version": "1.0",
+    "publisher": "ktgibson",
+    "bugs": {
+        "url": "https://github.com/ktgibson/gloomy/issues"
+    },
+    "homepage": "https://github.com/ktgibson/gloomy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ktgibson/gloomy"
+    },
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "syntax",
+        "theme",
+        "gloom",
+        "vscode"
+    ],
+    "license": "MIT",
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gloomy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gloomy.json"
+            }
+        ]
+    }
+}
