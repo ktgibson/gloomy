@@ -203,7 +203,7 @@
         "scope": "storage.type.js",
         "settings": {
           "foreground": "#6fff9f",
-          "fontStyle": "bold"
+          "fontStyle": "italic"
         }
       },
       {
