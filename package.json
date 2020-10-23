@@ -2,7 +2,7 @@
     "name": "gloomy",
     "displayName": "Gloomy",
     "description": "A port of Atom's Gloom syntax theme for VS Code",
-    "version": "1.0",
+    "version": "0.1.0",
     "publisher": "ktgibson",
     "bugs": {
         "url": "https://github.com/ktgibson/gloomy/issues"
