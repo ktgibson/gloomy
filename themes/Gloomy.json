@@ -235,6 +235,14 @@
         }
       },
       {
+        "name": "Javascript object",
+        "scope": "variable.other.object.js",
+        "settings": {
+        "foreground": "#D4770C",
+        "fontStyle": "italic"
+        }
+      },
+      {
         "name": "java type",
         "scope": "storage.type.annotation.java",
         "settings": {
